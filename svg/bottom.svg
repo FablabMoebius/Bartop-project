@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1354.0709"
+   height="1890.7638"
+   version="1.1"
+   id="svg102"
+   sodipodi:docname="bottom.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata106">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1373"
+     inkscape:window-height="845"
+     id="namedview104"
+     showgrid="false"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="1557.1823"
+     inkscape:cy="762.64447"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g86"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <desc
+     id="desc2">/home/henry/Documents/fablab/bartop/Bartop-project/dxf_from_onshape/bottom.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs16">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       height="8"
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path7" />
+      <path
+         d="M6 2 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path9" />
+      <path
+         d="M4 0 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path11" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g18"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SECTION_CUTTING_LINE"
+     id="g20"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="DETAIL_VIEW_BORDER"
+     id="g22"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="DETAIL_VIEW_PARENT_BORDER"
+     id="g24"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="TEXT"
+     id="g26"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SKETCHED_GEOMETRY"
+     id="g28"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="CENTERLINES"
+     id="g30"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="CENTERMARKS"
+     id="g32"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="TABLES"
+     id="g34"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="IMAGES"
+     id="g36"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="ANNOTATION_LINES"
+     id="g38"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="ANNOTATION_TEXT"
+     id="g40"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SIDE_THREAD_SYMBOLS"
+     id="g42"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SIDE_THREAD_SYMBOLS_HIDDEN"
+     id="g44"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SURFACE_THREAD_SYMBOLS"
+     id="g46"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SURFACE_THREAD_SYMBOLS_ON_"
+     id="g48"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SURFACE_THREAD_SYMBOLS_HID"
+     id="g50"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="BLIND_THREAD_SYMBOLS"
+     id="g52"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="BLIND_THREAD_SYMBOLS_HIDDE"
+     id="g54"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="EXPLODE_LINES"
+     id="g56"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="BREAK_LINES"
+     id="g58"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SHEETMETAL_BEND_LINES_UP"
+     id="g60"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SHEETMETAL_BEND_LINES_DOWN"
+     id="g62"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SHEETMETAL_BEND_TANGENT_LI"
+     id="g64"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SHEETMETAL_CUT_LINES"
+     id="g66"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="HIDDEN"
+     id="g68"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="VISIBLE"
+     id="g86"
+     transform="translate(690.26378,-177.1378)">
+    <path
+       d="m 579.2126,211.65354 c -0.003,4.69888 3.80506,8.50977 8.50393,8.50977 4.69888,0 8.50716,-3.81089 8.50394,-8.50977 0.003,-4.69887 -3.80506,-8.50977 -8.50394,-8.50977 -4.69887,0 -8.50715,3.8109 -8.50393,8.50977 z"
+       style="fill:none;stroke:#000000;stroke-width:3.77952766;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path70"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsc" />
+    <path
+       d="m 276.85043,2033.3858 c 0,4.6966 3.8073,8.5039 8.5039,8.5039 4.6966,0 8.5039,-3.8073 8.5039,-8.5039 0,-4.6966 -3.8073,-8.5039 -8.5039,-8.5039 -4.6966,0 -8.5039,3.8073 -8.5039,8.5039 z"
+       style="fill:none;stroke:#000000;stroke-width:3.77952766;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path72"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss" />
+    <path
+       d="m 579.21263,2033.3858 c 0,4.6989 3.805,8.5098 8.5039,8.5098 4.6989,0 8.5072,-3.8109 8.5039,-8.5098 0,-4.6989 -3.805,-8.5098 -8.5039,-8.5098 -4.6989,0 -8.5072,3.8109 -8.5039,8.5098 z"
+       style="fill:none;stroke:#000000;stroke-width:3.77952766;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path74"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsc" />
+    <path
+       d="m 276.85039,211.65354 c 0,4.6966 3.80734,8.50394 8.50394,8.50394 4.6966,0 8.50394,-3.80734 8.50394,-8.50394 0,-4.6966 -3.80734,-8.50394 -8.50394,-8.50394 -4.6966,0 -8.50394,3.80734 -8.50394,8.50394 z"
+       style="fill:none;stroke:#000000;stroke-width:3.77952766;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path76"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss" />
+    <path
+       d="M 663.30708,177.63778 H -689.76376 V 2067.4016 H 663.30708 Z"
+       style="fill:none;stroke:#000000;stroke-width:3.77952766;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path84"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="MODELSKETCH_VISIBLE"
+     id="g88"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="MODELSKETCH_CONSTRUCTION"
+     id="g90"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="TANGENT_LINES"
+     id="g92"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="TANGENT_HIDDEN"
+     id="g94"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="INVISIBLE_LINES"
+     id="g96"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="VIEW_HATCHES"
+     id="g98"
+     transform="translate(690.26378,-177.1378)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="SECTION_JOG_LINES"
+     id="g100"
+     transform="translate(690.26378,-177.1378)" />
+</svg>
